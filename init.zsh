@@ -18,3 +18,7 @@ eval "$(tmuxifier init -)"
 # Aliases
 #
 alias tm="tmuxifier"
+alias tmnw="tmuxifier new-window"
+alias tmlw="tmuxifier load-window"
+alias tmns="tmuxifier new-session"
+alias tmls="tmuxifier load-session"
