@@ -23,7 +23,7 @@ Authors
 -------
 *The authors of this module should be contacted via the [issue tracker][3].*
 
-  - [Dan Grystad](https://github.com/dangrystad)a
+  - [Dan Grystad](https://github.com/dangrystad)
 
 [1]: https://github.com/jimeh/tmuxifier
 [2]: https://github.com/sorin-ionescu/prezto
